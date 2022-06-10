@@ -1,0 +1,1 @@
+['Mid-tier', '2342', 'Yellow', 'Pants', 'Louis Vuitton', True, False, True, False, False]
